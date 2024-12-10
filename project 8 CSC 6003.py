@@ -1,4 +1,4 @@
-"""Project 8 CSC 6003 Kevin DiBiasio"""
+"""Bank Account Management- Foundations of Programming Kevin DiBiasio"""
 
 
 class BankAccount: #Creates the class BankAccount
